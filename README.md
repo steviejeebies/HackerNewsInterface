@@ -5,4 +5,4 @@ The members of this project were Adam Lysaght, Oisin Tong, Eoin Donnelly Maguire
 
 ### For the full program description, with a description of the design process, see [Project Description](../master/Submission.pdf). 
 
-### For the Feature list, see the [following document](../master/FeatureList.docx). 
+### For the Feature list, see the [following document](../master/FeatureList.pdf). 

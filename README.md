@@ -1,5 +1,5 @@
 # HackerNewsInterface
-First Year Group Project, designing a interface for Hacker News in the Processing programming language.
+First Year Group Project, designing a interface for Hacker News in the Processing IDE.
 
 The members of this project were Adam Lysaght, Oisin Tong, Eoin Donnelly Maguire, and myself, Stephen Rowe.
 
